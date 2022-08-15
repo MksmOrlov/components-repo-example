@@ -1,2 +1,1 @@
-https://github.com/MksmOrlov/kb-comp
-
+https://github.com/MksmOrlov/dog-kb-component
