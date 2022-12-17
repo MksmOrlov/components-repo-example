@@ -1,0 +1,11 @@
+sc_component_manager_repository
+	<- concept_repository;
+	-> rrel_components: ..components_addresses;
+	-> rrel_repositories: ..repositories_addresses;
+
+..components_addresses
+	-> ... (* -> rrel_address: [https://github.com/MksmOrlov/dog-kb-component];; *);;
+
+..repositories_addresses
+	-> ... (* -> rrel_address: [https://github.com/MksmOrlov/components-repo-example2];; *);;
+

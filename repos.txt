@@ -1,6 +1,0 @@
-[components]
-https://github.com/MksmOrlov/dog-kb-component
-
-[repositories]
-https://github.com/MksmOrlov/components-repo-example2
-
