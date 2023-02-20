@@ -6,6 +6,3 @@ sc_component_manager_repository
 ..components_addresses
 	-> ... (* -> rrel_address: [https://github.com/MksmOrlov/dog-kb-component];; *);;
 
-..repositories_addresses
-	-> ... (* -> rrel_address: [https://github.com/MksmOrlov/components-repo-example2];; *);;
-
